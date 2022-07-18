@@ -8,7 +8,7 @@
 
 body {
   height: 100vh;
-  background-image: url('../assets/chihiro.jpg');
+  background-image: url('./assets/chihiro.webp');
   display: flex;
   align-items: center;
   justify-content: center;
